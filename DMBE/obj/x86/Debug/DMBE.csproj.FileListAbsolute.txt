@@ -1,0 +1,17 @@
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\bin\Debug\DMBE.exe
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\bin\Debug\DMBE.pdb
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.Properties.Resources.resources
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.exe
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.pdb
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\bin\Debug\Aspose.Cells.dll
+c:\users\jj\documents\visual studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.open_form.resources
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.b_form.resources
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.calculation_form.resources
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.Help.resources
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\DMBE.Main.resources
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\bin\Debug\DMBE.exe.config
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jj\Documents\Visual Studio 2010\Projects\DMBE\DMBE\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
