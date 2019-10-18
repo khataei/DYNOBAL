@@ -6,7 +6,7 @@ It is a powerful tool which calculates the amount of oil in underground oil rese
 It is available in English and Persian.
 
 ### 
-There is a short toturial on how to use this software on my website, http://khataei.ca/software/dynobal.html
+There is a short toturial on how to use this software [here](https://github.com/Javad-mun/DYNOBAL/blob/master/Dynobal.pdf)
 
 #### Code and installation file
 
